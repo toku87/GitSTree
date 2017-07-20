@@ -1,4 +1,5 @@
 Dzieñ dobry.
+Linijka z mastera
 Plik Do konfliktu.
 To jest fragment z Brancha
 Bêdzie jazda.
